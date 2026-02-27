@@ -22,5 +22,6 @@ Citation:
 
 Whitman, M. E., & Mattord, H. J. (2021). Principles of Information Security (7th ed.). Cengage Learning.
 Stewart, J. M., & Chapple, J. (2021). (ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide (9th ed.). Wiley.
+
  Reflection
 Governance is just as important as technical skill because it provides the "why" and "how" behind the "what" of security operations. While a technician can patch a server, governance determines which servers are high-priority based on risk to the organization. In cybersecurity, technical skills are the tools, but governance is the blueprint that ensures those tools are used effectively and legally. Without strong documentation and policy, even the best technical defenses can fail during a regulatory audit or legal challenge. Today’s material aligns most closely with the Governance, Risk, and Compliance (GRC) domain. This domain focuses specifically on the intersection of technical security controls and organizational policy, ensuring all actions meet professional reporting standards.
